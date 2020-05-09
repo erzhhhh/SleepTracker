@@ -1,16 +1,13 @@
 package com.example.android.trackmysleepquality.database
 
-import androidx.room.Dao
-import androidx.room.Insert
-import androidx.room.Query
-import androidx.room.Update
+import androidx.room.*
 import io.reactivex.Maybe
 import io.reactivex.Observable
 
 @Dao
 interface SleepDatabaseDao {
 
-    @Insert
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
     fun insertSleepNight(night: SleepNight)
 
     @Update
