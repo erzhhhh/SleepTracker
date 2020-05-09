@@ -23,6 +23,6 @@ It also uses and builds on the following techniques from previous lessons:
 
 ## Screenshots
 
-![Screenshot1](screenshots/sleep_quality_tracker_start.png)
-![Screenshot2](screenshots/sleep_quality_tracker_stop.png)
-![Screenshot3](screenshots/sleep_quality_tracker_quality.png)
+![Screenshot1](https://user-images.githubusercontent.com/26056173/81479570-b4ef0100-922c-11ea-9e8c-068178397622.png)
+![Screenshot2](https://user-images.githubusercontent.com/26056173/81479587-c6d0a400-922c-11ea-8b7a-4ec16f118022.png)
+![Screenshot3](https://user-images.githubusercontent.com/26056173/81479593-d2bc6600-922c-11ea-9302-daa8130ce6b6.png)
